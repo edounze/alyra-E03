@@ -1,2 +1,5 @@
 train/
 .venv
+
+__pycache_
+.pyc
