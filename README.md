@@ -8,9 +8,9 @@ Ce projet consiste en un service d'API basé sur FastAPI pour la prédiction d'i
   - `main.py` : Le point d'entrée de l'application FastAPI.
   - `model.py` : Le script contenant les fonctions pour la prédiction à partir du modèle.
   - `preprocess.py` : Le script contenant les fonctions de prétraitement des images.
-    model/ : Contient le modèle de réseau neuronal préalablement entraîné au format h5.
+  - `model/` : Contient le modèle de réseau neuronal préalablement entraîné au format h5.
 - `image_test_1.png` et `image_test_2.png` : Des exemples d'images à utiliser pour tester l'API.
-- requirements.txt : Le fichier contenant les dépendances Python nécessaires pour exécuter l'application.
+- `requirements.txt` : Le fichier contenant les dépendances Python nécessaires pour exécuter l'application.
 
 ## Installation et exécution
 
