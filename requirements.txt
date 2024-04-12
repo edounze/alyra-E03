@@ -1,0 +1,11 @@
+# Phase de deploiement
+tensorflow
+scikit-learn
+numpy
+fastapi
+python-multipart
+uvicorn
+
+# Phase de dev
+matplotlib
+pandas
