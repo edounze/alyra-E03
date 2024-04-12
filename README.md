@@ -27,3 +27,9 @@ curl -X POST -F "file=@image_test_1.png" http://127.0.0.1:8000/predict
 ```
 
 Assurez-vous de remplacer image_test_1.png par le chemin de votre image de test (2 images sont proposées à la racine de ce projet).
+
+Il est aussi possible de tester l'API en allant dans la partie documentation située à l'adresse :
+
+- `http://127.0.0.1:8000/docs`
+
+![Exemple de requete avec FastAPI](fast-api.PNG "Exemple de requete avec FastAPI")
